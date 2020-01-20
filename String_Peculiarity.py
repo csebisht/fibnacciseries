@@ -16,3 +16,12 @@ a = "Baden!"
 b = "Baden!"
 print(a is b)
 
+
+single='my name is sheela'
+print(single)
+
+double ="obama's dog is called bo"  # single='my name is sheela's' SyntaxError: invalid syntax
+print(double)
+
+singledouble='''hello 'pradeep',and "himanshu" helloji'''
+print(singledouble)

@@ -17,7 +17,24 @@ print("Pradeep"*4)
 
 
 for i in range(8):
-    print("#"*i)
+    print("#"*i)  # repetition
+
+print(len("Python"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

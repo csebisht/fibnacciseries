@@ -25,3 +25,11 @@ print(double)
 
 singledouble='''hello 'pradeep',and "himanshu" helloji'''
 print(singledouble)
+
+print(~12) # 13  compliment
+
+print(12|13)   # or case
+print(12&13) # and case
+print(12^13) # xor case
+print(10<<1)  # left swift
+print(10>>2) # right swift
